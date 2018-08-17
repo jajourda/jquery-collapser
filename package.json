@@ -1,5 +1,5 @@
 {
-  "name": "jquery-accordion",
+  "name": "jquery-collapser",
   "version": "0.1.0",
-  "main": "js/jquery.accordion.js"
+  "main": "jquery.collapser.js"
 }
